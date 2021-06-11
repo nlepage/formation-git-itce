@@ -9,3 +9,5 @@ git config --global user.email "training@zenika.com"
 ```
 
 Telechargement de resaroute apres le TP3.3 : https://github.com/nlepage/formation-git-ibp/raw/main/resaroute-3.3.zip
+
+Cahier d'exercice : https://github.com/nlepage/formation-git-ibp/blob/main/Zenika-Formation-formation-git-CahierExercices.pdf
