@@ -1,4 +1,4 @@
-# formation-git-ibp
+# formation-git-itce
 
 Slides : https://github.com/nlepage/formation-git-ibp/blob/main/Zenika-Formation-formation-git-Slides.pdf
 
